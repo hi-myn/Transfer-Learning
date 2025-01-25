@@ -20,3 +20,30 @@ O modelo VGG16 foi carregado com pesos pré-treinados no ImageNet, e as camadas 
 O objetivo principal deste projeto foi entender como usar Transfer Learning para aproveitar modelos treinados em grandes bases de dados e aplicá-los a problemas específicos com poucas mudanças na arquitetura.
 
 ### 💻 **Bootcamp**: [BairesDev - Machine Learning Practitioner]
+
+<br>**English version**
+# Transfer Learning for Cat and Dog Classification
+
+This project was developed as part of a bootcamp challenge to practice machine learning concepts. The aim was to use **Transfer Learning** to adapt a pre-existing neural network, with the VGG16 model, to predict images of **cats** and **dogs**.
+
+## Technologies Used:
+- **Python**
+- **Keras**
+- **NumPy**
+- **TensorFlow Datasets**
+- **Matplotlib**
+
+The VGG16 model was loaded with pre-trained weights in ImageNet, and the final layers were adapted for the binary classification problem. The dataset used was **Cats vs Dogs** from TensorFlow Datasets, which contains images of cats and dogs.
+
+### How it works:
+1. **Transfer Learning: The VGG16 network was used with its pre-trained weights to extract features from the image, and additional layers were added to adapt the model to the binary classification task.
+2. **Training: The model was trained on the dataset of cat and dog images with a training and validation dataset.
+3. **Prediction: The model was used to make predictions about new images of cats (0) and dogs (1).
+
+### Objective:
+The main objective of this project was to understand how to use Transfer Learning to take advantage of models trained on large databases and apply them to specific problems with few changes to the architecture.
+
+### 💻 **Bootcamp**: [BairesDev - Machine Learning Practitioner]
+
+
+Translated with DeepL.com (free version)
