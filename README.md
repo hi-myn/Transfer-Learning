@@ -19,7 +19,7 @@ O modelo VGG16 foi carregado com pesos pré-treinados no ImageNet, e as camadas 
 ### Objetivo:
 O objetivo principal deste projeto foi entender como usar Transfer Learning para aproveitar modelos treinados em grandes bases de dados e aplicá-los a problemas específicos com poucas mudanças na arquitetura.
 
-### 💻 **Bootcamp**: [BairesDev - Machine Learning Practitioner]
+### 💻 Este projeto foi desenvolvido para fins de aprendizado 
 
 <br>**English version**
 # Transfer Learning for Cat and Dog Classification
@@ -43,7 +43,7 @@ The VGG16 model was loaded with pre-trained weights in ImageNet, and the final l
 ### Objective:
 The main objective of this project was to understand how to use Transfer Learning to take advantage of models trained on large databases and apply them to specific problems with few changes to the architecture.
 
-### 💻 **Bootcamp**: [BairesDev - Machine Learning Practitioner]
+### 💻 Este projeto foi desenvolvido para fins de aprendizado 
 
 
 Translated with DeepL.com (free version)
